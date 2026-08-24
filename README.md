@@ -1,16 +1,16 @@
-# HTML5 Cybersecurity Awareness Ad Campaign
+HTML5 Cybersecurity Awareness Ad Campaign
 
 An animated digital display advertising campaign designed to promote cybersecurity awareness and encourage users to recognize phishing threats.
 
 The campaign was designed in Figma and developed using HTML5, CSS, and JavaScript. Each advertisement adapts the same visual identity and messaging across multiple standard digital display formats.
 
-## Ad Formats
+Ad Display Formats
 
 * **300 × 250** — Medium Rectangle
 * **728 × 90** — Leaderboard
 * **160 × 600** — Skyscraper
 
-## Tools & Technologies
+Tools & Technologies
 
 * Figma
 * HTML5
@@ -18,13 +18,13 @@ The campaign was designed in Figma and developed using HTML5, CSS, and JavaScrip
 * JavaScript
 * CSS Keyframe Animations
 
-## Design Process
+Design Process
 
-### 1. Visual Design
+1. Visual Design
 
 Created the initial campaign concept in Figma using a consistent visual system including typography, color, messaging, warning iconography, and call-to-action components.
 
-### 2. Responsive Ad Adaptation
+2. Responsive Ad Adaptation
 
 Adapted the campaign across three different display-ad dimensions while maintaining consistent visual hierarchy and campaign identity.
 
@@ -34,7 +34,7 @@ Each format uses a layout designed specifically for its dimensions rather than s
 
 Translated the Figma designs into functional HTML5 advertisements using semantic HTML and CSS positioning.
 
-### 4. Animation
+4. Animation
 
 Developed a six-second animation sequence using CSS keyframes.
 
@@ -48,7 +48,7 @@ Campaign elements enter sequentially:
 
 The completed composition remains visible before fading out and restarting the animation.
 
-### 5. Interaction & Accessibility
+5. Interaction & Accessibility
 
 Added interactive CTA behavior using JavaScript and CSS, including:
 
@@ -58,27 +58,7 @@ Added interactive CTA behavior using JavaScript and CSS, including:
 * High-contrast visual design
 * Click interaction
 
-## Project Structure
 
-```text
-html5-cybersecurity-ad/
-│
-├── 300x250/
-│   ├── index.html
-│   ├── style.css
-│   └── script.js
-│
-├── 728x90/
-│   ├── index.html
-│   ├── style.css
-│   └── script.js
-│
-└── 160x600/
-    ├── index.html
-    ├── style.css
-    └── script.js
-```
-
-## Skills Demonstrated
+Skills Demonstrated
 
 HTML5 Display Advertising • Figma • Visual Design • Digital Design • Motion Design • CSS Animation • JavaScript • UI Design • Accessibility • Design Systems • Responsive Layout • Front-End Development
